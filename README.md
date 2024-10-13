@@ -1,4 +1,4 @@
-# Mastering PyTorch, Second Edition
+# Mastering PyTorch, Second Edition - Marilson Work copy
 
 This is the code repository for the book [Mastering PyTorch, Second Edition](https://www.amazon.com/Mastering-PyTorch-powerful-learning-architectures-ebook/dp/1801074305), published by Packt.
 
